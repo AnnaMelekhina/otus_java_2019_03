@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Main {
     private static final int MEASURE_COUNT = 1;
-//123
+//1234
     public static void main(String... args) {
         List<Integer> example = new ArrayList<>();
         int min = 0;
