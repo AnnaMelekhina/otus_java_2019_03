@@ -12,7 +12,7 @@
     </parent>
 
 
-    <artifactId>L01.2-maven </artifactId>
+    <artifactId>L01.2-maven</artifactId>
     <name>L01.2-maven</name>
 
     <dependencies>

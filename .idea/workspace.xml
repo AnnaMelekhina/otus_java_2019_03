@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60bb43ab-f739-4fa6-a4fd-b455616e3831" name="Default Changelist" comment="" />
+    <list default="true" id="60bb43ab-f739-4fa6-a4fd-b455616e3831" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/L01.1-maven/target/" />
@@ -310,7 +312,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554138425792</updated>
-      <workItem from="1554138435193" duration="20486000" />
+      <workItem from="1554138435193" duration="21417000" />
     </task>
     <task id="LOCAL-00001" summary="01.04">
       <created>1554147805078</created>
@@ -344,7 +346,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20486000" />
+    <option name="totallyTimeSpent" value="21417000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,13 +366,13 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18191604" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18191604" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3296146" />
       <window_info anchor="bottom" id="Dependency Viewer" order="1" weight="0.29716024" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3296146" />
-      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3223481" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3223481" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50053823" side_tool="true" weight="0.51493305" />
       <window_info anchor="bottom" id="Message" order="7" />
